@@ -9,6 +9,9 @@ usage: wordrank <string>
 example: workrank EXAMPLE
 
 installation:
+
 $ ./configure
+
 $ make
+
 $ sudo make install
