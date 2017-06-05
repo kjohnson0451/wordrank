@@ -4,7 +4,7 @@ For every string S, there are n other permutations of S. If all of those permuta
 
 For example, AB would fall under rank 1, BA would fall under rank 2.
 
-usage: wordrank <string>
+usage: wordrank STRING
 
 example: workrank EXAMPLE
 
